@@ -1,0 +1,11 @@
+print('yugalsonparate04'.isalnum())
+print('yugalsonparate'.isalpha())
+print('777f'.isdigit())
+print('sdsdsdsd'.islower())
+print(''.islower())
+print('YUGALs'.isupper())
+print('My Name Is Yugal Sonparate'.istitle()) #checks whether every word has first letter capital 
+print(''.istitle())
+print(''.isspace())
+print("Hello".startswith("He"))
+print("Hello".endswith("lo"))
